@@ -1,0 +1,9 @@
+The following questions are investigated:
+1) Top 100 students with the highest scores overall
+2) Top 100 students with the highest scores in Natural Science
+3) Top 100 students with the highest scores in Social Science 
+4) Top 50 students in A00 Combination (Math - Physics - Chemistry)
+5) Top 50 students in A01 Combination (Math - Physics - English)
+6) Top 50 students in D01 Combination (Math - Literature - English)
+7) How many students are exempt from the English Test - 8030 Social Studies, 12178 Natural Science => ~20000 students
+8) Score ranges of every single subject
